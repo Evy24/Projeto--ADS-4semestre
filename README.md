@@ -29,7 +29,6 @@ ____________________
 - [x] Deploy no Netlify 
 - [x] Projeto Finalizado.
 - [x] Criação da documentação do Projeto.
-- [x] Criação do vídeo de apresentação do Projeto.
 - [x] Apresentação.
 
 
