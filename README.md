@@ -3,21 +3,13 @@
 [Aplicação rodando no NETLIFY](https://pitangaecacau.netlify.app/)
 ____________________
 
-[GitHub Front & Back- End](https://github.com/ThePeach04/Projeto-4-Semestre.git)
-_______
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
 
 ### Universidade Nove de Julho (UNINOVE) - Campus Santo Amaro
 
 Site de produtos naturais sustenstáveis
-
+____________________
 ### ✔ Beneficios:
 ____________________
-
 O sistema contém um design atrativo para os clientes, feito de maneira intuitiva para facilidade na solicitação de pedidos.
 
 ### ✏ Planejamento:
