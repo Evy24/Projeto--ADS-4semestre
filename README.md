@@ -1,90 +1,75 @@
-<h1>Pitanga & Cacau</h1>
+# Pitanga & Cacau
 
-HTML CSS JavaScript NodeJS
+[Aplicação rodando no NETLIFY](https://pitangaecacau.netlify.app/)
+____________________
 
-Aplicação rodando no NETLIFY - https://pitangaecacau.netlify.app/
+[GitHub Front & Back- End](https://github.com/ThePeach04/Projeto-4-Semestre.git)
+_______
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-<br>
-📖 Universidade Nove de Julho (UNINOVE) - Campus Santo Amaro
-</br>
+
+### Universidade Nove de Julho (UNINOVE) - Campus Santo Amaro
 
 Site de produtos naturais sustenstáveis
 
-<br>
-✔ Beneficios:
+### ✔ Beneficios:
+____________________
 
 O sistema contém um design atrativo para os clientes, feito de maneira intuitiva para facilidade na solicitação de pedidos.
-<br/>
-<br>
-✏ Planejamento:
 
-✅ Início do desenvolvimento do Projeto.
+### ✏ Planejamento:
+____________________
 
-✅ Definição do tema do site.
+- [x] Início do desenvolvimento do Projeto. 
+- [x] Definição do tema do site.
+- [x] Desenvolvimento da distribuição de planejamento da equipe. 
+- [x] Ideias de melhorias e otimização do processo.
+- [x] Planejamento da arquitetura da aplicação.
+- [x] Criação do Front-end.
+- [x] Definição das tecnologias usadas no Back-end e implementação dos códigos.
+- [x] Integração: Front-end e Back-end.
+- [x] Fase de testes do projeto concluído. 
+- [x] Resolver bugs e possíveis problemas futuros.
+- [x] Discussão em qual plataforma de nuvem o projeto será hospedado.
+- [x] Deploy no Netlify 
+- [x] Projeto Finalizado.
+- [x] Criação da documentação do Projeto.
+- [x] Criação do vídeo de apresentação do Projeto.
+- [x] Apresentação.
 
-✅ Desenvolvimento da distribuição de planejamento da equipe.
 
-✅ Ideias de melhorias e otimização do processo.
 
-✅ Planejamento da arquitetura da aplicação.
+### ✍ Metodologia ultilizada no Projeto
+- [x] Metodologia Ágil: SCRUM.
 
-✅ Criação do Front-end.
 
-✅ Definição das tecnologias usadas no Back-end e implementação dos códigos.
+### 🛠 Ferramentas ultilizadas:
+____________________
 
-✅ Integração: Front-end e Back-end.
+- [x] [Trello](https://trello.com/)
+- [x] [Visual Studio Code](https://code.visualstudio.com/)
+- [x] [ReactJS](https://reactjs.org/)
+- [x] [Netlify](https://www.apachefriends.org/pt_br/dowload.html)
+- [x] [Bootstrap](https://getbootstrap.com/) 
 
-✅ Fase de testes do projeto concluído.
 
-✅ Resolver bugs e possíveis problemas futuros.
 
-✅ Discussão em qual plataforma de nuvem o projeto será hospedado.
 
-✅ Deploy no Netlify
 
-✅ Projeto Finalizado.
+#### 📑 Trabalho Concluido: 
+#### ✅ 100% 
 
-✅ Criação da documentação do Projeto.
+______________________________________
 
-✅ Apresentação.
-
-<br/>
-<br>
-✍ Metodologia ultilizada no Projeto
-
-✅ Metodologia Ágil: SCRUM.
-
- <br/>
- 
-<br>
-🛠 Ferramentas ultilizadas:
-
-✅ Trello
-
-✅ Visual Studio Code
-
-✅ ReactJS
-
-✅ Netlify
-
-✅ Bootstrap
-
-<br/>
-
-<br> 
-📑 Trabalho Concluido:
-
-✅ 100%
-<br/>
-<br>
-❤ Projeto realizado pelo grupo da Turma 52-SA da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
+#### ❤ Projeto realizado pelo grupo da Turma 52-SA da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
 Projeto Integrador - 2024
-<br/>
 
-😎 Membros do Grupo:
-
-- Eveny G.
-- Klayver M.
-- Kauan N.
-- Guilherme M.
-- Gilmar R.
+#### 😎 Membros do Grupo:
+#### - Eveny G.
+#### - Klayver M.
+#### - Kauan N.
+#### - Guilherme M.
+#### - Gilmar R.
